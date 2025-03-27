@@ -1,1 +1,4 @@
 Este es un archivo de prueba con el que  vamos a trabajar.
+
+y esta es una modificacion a archivo prueba desde nano
+OwOwOwOwOWoowowOWoOwwoOwwooWoWOwowOWOwOwOwOwowowowowoO
