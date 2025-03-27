@@ -1,1 +1,5 @@
 Este es un archivo de prueba con el que  vamos a trabajar.
+
+
+
+Vamos a generar un error de fusión.
