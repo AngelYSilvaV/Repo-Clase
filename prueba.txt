@@ -1,5 +1,4 @@
 Este es un archivo de prueba con el que  vamos a trabajar.
 
-
-
-Vamos a generar un error de fusión.
+y esta es una modificacion a archivo prueba desde nano
+OwOwOwOwOWoowowOWoOwwoOwwooWoWOwowOWOwOwOwOwowowowowoO
